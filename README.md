@@ -8,9 +8,9 @@
 
 #### 0x01 工具使用
 
-![01](\image\01.jpg)
+![01](/image/01.jpg)
 
-![02](\image\02.png)
+![02](/image/02.png)
 
 
 
